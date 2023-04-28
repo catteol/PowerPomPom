@@ -28,7 +28,7 @@ A. メモリのアドレスが流石に原神とは異なるのか、PowerPaimon
 - Download [latest zip file](https://github.com/rexent-gx/PowerPomPom/releases/latest/download/PowerPomPom.zip) from Releases.
 
 ## How to Use
-1. Launch `PowerPomPom.exe`.
+1. Launch `PowerPomPom.exe`, and extract the archive.
    - If an error occurred while launching, please launch the HSR game first and try again.
 1. Control the FPS Slider to change the max fps cap.
    - Max fps value will save to the registry automatically, so you don't have to launch this software again.
